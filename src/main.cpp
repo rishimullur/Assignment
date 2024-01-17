@@ -1,6 +1,6 @@
 #include <Arduino.h>
 
-const int analogInPin = 35;  // D7 is mapped to pin 35 on ESP32
+const int analogInPin = 34;  // D7 is mapped to pin 35 on ESP32
 float calibrationFactor = 1.0; 
 
 void setup() {
